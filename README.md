@@ -4,7 +4,7 @@
 Este proyecto implementa un servicio REST para la optimización de portafolios de inversión utilizando el modelo de Markowitz. El servicio acepta datos de retornos diarios y proporciona pesos óptimos para la asignación de activos.
 
 ## Método de Optimización
-Hemos elegido el modelo de Markowitz (Modern Portfolio Theory - MPT) por las siguientes razones:
+Se ha elegido el modelo de Markowitz (Modern Portfolio Theory - MPT) por las siguientes razones:
 
 1. **Fundamento Teórico Sólido**: El modelo MPT es ampliamente reconocido y probado en la industria financiera.
 2. **Balance Riesgo-Retorno**: Optimiza explícitamente el trade-off entre rendimiento esperado y riesgo.
